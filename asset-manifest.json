@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react_practice-news/static/css/main.53b6c743.css",
+    "main.js": "/react_practice-news/static/js/main.acc5fddc.js",
+    "index.html": "/react_practice-news/index.html",
+    "main.53b6c743.css.map": "/react_practice-news/static/css/main.53b6c743.css.map",
+    "main.acc5fddc.js.map": "/react_practice-news/static/js/main.acc5fddc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.53b6c743.css",
+    "static/js/main.acc5fddc.js"
+  ]
+}
